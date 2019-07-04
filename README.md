@@ -1,10 +1,19 @@
 # google-bert-multi-class-text-classifiation
 
+## Overview
+
+This kernel was made in response to "The great indian data sceintist challenge" held by "Edgeverve" on Hackerearth. Happy machine learning!
+
+Link to kaggle kernel : https://www.kaggle.com/kernels/scriptcontent/16704856/download
+Link to datasets : https://www.kaggle.com/subratasarkar32/the-great-indian-data-scientist-hiring-challenge, https://www.kaggle.com/subratasarkar32/googleresearchbert, https://www.kaggle.com/maxjeblick/bert-pretrained-models
+
 ## Usage
+
+Fork the repository.
 
 Power up jupyter notebook for python and open the .ipynb file provided.
 
-Then, just change the data preprocessing parts of the code to load and format your data to match the preprocessing specifications and then run your notebook.
+Then, just change the data preprocessing parts of the code to load and format your own data to match the preprocessing specifications and then run your notebook.
 
 If you lack hardware resources on your machine, then just run your notebook on kaggle/colab.Just upload your dataset seperately. It is a pretty unexpensive option. Trust me ;D
 
